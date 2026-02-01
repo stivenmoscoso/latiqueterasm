@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "1234",
+      "role": "admin",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "invitado",
+      "email": "invitado@gmail.com",
+      "password": "1234",
+      "role": "invitado",
+      "createdAt": "2026-01-02T00:00:00.000Z"
+    }
+  ],
+  "events": [
+    {
+      "id": "726e",
+      "title": "Partido Messi y sus amigos",
+      "date": "2026-10-01",
+      "location": "Medellin",
+      "description": "Partido contra nacional en el Atanasio Girardot",
+      "capacity": 400,
+      "attendees": [
+        "d282"
+      ],
+      "createdBy": "bb87",
+      "createdAt": "2026-02-01T17:49:56.680Z"
+    }
+  ]
+}
